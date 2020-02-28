@@ -1,0 +1,2 @@
+date: 28-2-20: code for checking whether two linked lists[lls] are equal or not. Equal here means both lls should have same 
+number of nodes and same values in corresponding nodes, also two NULL lls are also treated as same.
