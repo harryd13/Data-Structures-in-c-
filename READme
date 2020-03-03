@@ -3,3 +3,6 @@ code for checking whether two linked lists[lls] are equal or not. Equal here mea
 number of nodes and same values in corresponding nodes, also two NULL lls are also treated as same.
 
 code for merging two sorted linked lists uploaded(both should be in ascending order).
+
+date: 2-3-20
+code for level order traversal of a binary tree (inefficient,queue not used therfore time complexity si O(n^2)).
