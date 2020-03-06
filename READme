@@ -6,3 +6,6 @@ code for merging two sorted linked lists uploaded(both should be in ascending or
 
 date: 2-3-20
 code for level order traversal of a binary tree (inefficient,queue not used therfore time complexity si O(n^2)).
+
+date: 6-3-20
+code for vertical order tree traversal of a binary tree uploaded!.
